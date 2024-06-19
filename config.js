@@ -12,15 +12,8 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['51935499065', '𝗢𝘄𝗻𝗲𝗿 👑', true],
-['51948705559'],
-['573218138672'],
-['51944167935'],
-['5214434703586'],
-['5492266613038'],
-['593968263524'],
-['595983799436']]
+['51948705559', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
+['51974399615', '𝗢𝘄𝗻𝗲𝗿 👑', true]]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
@@ -36,13 +29,13 @@ global.mods = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
 global.packname = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗠𝗶𝗻𝗶 - 𝗠𝗗 🌸';
-global.author = 'Oғᴄ.Dɪᴇɢᴏ 👑';
+global.author = '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 🥷';
 global.wm = '᭥𐨏𝒀𝒂𝒆𝒎𝒐𝒓𝒊 𝑴𝒊𝒏𝒊 - 𝑴𝑫᭢ꪲ';
 global.titulowm = '𝙈𝙞𝙣𝙞 𝘽𝙤𝙩 - 𝙈𝘿🌻';
-global.titulowm2 = `𝑂𝑓𝑐 𝐷𝑖𝑒𝑔𝑜`
-global.igfg = '𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝐷𝑖𝑒𝑔𝑜';
+global.titulowm2 = `𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂`
+global.igfg = '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂';
 global.botname = 'Ⓨ︎ Yaemori Mini - MD'
-global.team = '👑 Developed By • ✨ Ofc.Diego';
+global.team = '👑 Developed By • ✨ 𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂';
 global.vs = '2.0.0';
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -77,7 +70,7 @@ global.wm2 = `${dia} ${fecha}\nYaemori`;
 global.gt = 'Yaemori';
 global.yaemori = 'Yaemori';
 global.yaemori = 'https://github.com/OfcDiego/YaemoriBot-MD';
-global.nomorown = '573012482597';
+global.nomorown = '51948705559';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
