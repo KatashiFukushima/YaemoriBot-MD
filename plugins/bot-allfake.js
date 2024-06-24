@@ -74,6 +74,8 @@ var img8 = 'https://qu.ax/JhJn.jpg'
 var img9 = 'https://qu.ax/TVlC.jpg'
 var img10 = 'https://qu.ax/cMOE.jpg'
 
+globa.yaemoriImg = [img, img2, img3, img4, img5, img6, img7, img8, img9, img10].getRandom()
+
 global.miniImg = [img, img2, img3, img4, img5, img6, img7, img8, img9, img10].getRandom()
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶 𝑹𝑷𝑮◞ • ⚔
