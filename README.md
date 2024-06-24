@@ -10,16 +10,16 @@
 
 > Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo.🟢
 
-<a href="https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yaemori-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/C7LzujTmWjQ6j5CUaBPaFI"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yaemori-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### ⚙️ Configuracion
- Clonar Repo : Yaemori [Aqui.](https://github.com/OfcDiego/YaemoriBot-MD/fork)
+ Clonar Repo : Yaemori [Aqui.](https://github.com/KatashiFukushima/YaemoriBot-MD/fork)
 
 
 - ###  ⌨️ Instalar Por Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2OfcDiego%YaemoriBot-MD) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2KatashiFukushima%YaemoriBot-MD) 
 
 - ### 📱 Instalar Por Code Space
 
@@ -39,7 +39,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/OfcDiego/YaemoriBot-MD && cd YaemoriBot-MD
+git clone https://github.com/KatashiFukushima/YaemoriBot-MD && cd YaemoriBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -71,7 +71,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - ### ✅️ Actualizar Yaemori 
 > Note Comandos para actualizar Yaemori - Mini de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/OfcDiego/YaemoriBot-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/KatashiFukushima/YaemoriBot-MD/master/update.sh | bash
 ```
 Para que no pierda su progreso en Yaemori, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
@@ -97,14 +97,14 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
 
-<a href="https://wa.me/5213511759135?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/51984034663?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 > No Spam Al Bot!
 ---------
 
 ## 🌟 DESARROLLADORES
-<a href="https://github.com/OfcDiego/YaemoriBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=OfcDiego/YaemoriBot-MD" /> 
+<a href="https://github.com/KatashiFukushima/YaemoriBot-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=KatashiFukushima/YaemoriBot-MD" /> 
 </a>
 
 ### ☄️ AGRADECIMIENTOS
@@ -112,5 +112,5 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 
 ### 👑 CREADOR 
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Diego"/></a>
-> Copyright (c) 2024 **[OfcDiego](https://github.com/OfcDiego/YaemoriBot-MD)**.
+href="https://github.com/KatashiFukushima"><img src="https://github.com/KatashiFukushima.png" width="120" height="120" alt="Katashi"/></a>
+> Copyright (c) 2024 **[KatashiFukushima](https://github.com/KatashiFukushima/YaemoriBot-MD)**.
