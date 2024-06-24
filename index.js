@@ -24,7 +24,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 })
-say(`Developed By • Ofc.Diego`, {
+say(`Por KatashiFukushima`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
