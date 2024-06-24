@@ -17,13 +17,13 @@ global.owner = [
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573218138672", '𝗢𝗳𝗰 𝗗𝗶𝗲𝗴𝗼 👑', 1],
-["5214434703586", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 💖', 1],
-["447700168473", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
-["51935499065", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
-["51944167935", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 🌺', 1]]
+["51948705559", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 👑', 1],
+["5217442363122", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 🥷', 1],
+["59169082575", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🔰', 1],
+["51948273587", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
+["51944167935", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 2 👻', 1]]
 
-global.suittag = ['573012482597']
+global.suittag = ['51948705559']
 global.prems = []
 global.mods = []
 
@@ -44,18 +44,18 @@ global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial De Yaemori
-global.gp2 = 'https://chat.whatsapp.com/KNhfEDUTcyl5RuwR1Is4Hk' //Grupo Oficial Yaemori
-global.gp3 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot Y Yaemori
-global.gp4 = 'https://chat.whatsapp.com/E6LJVwoT9hQ5sn0t3HgeiE' //Curiosity Y Yaemori
-global.gp5 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //Nova Y Yaemori
-global.gp6 = 'https://chat.whatsapp.com/KjR8NTfdWwU1a66uDOOGLZ' //Multibots
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029VaXaCa66xCSHugaf773M' //canal segundario
+global.gp1 = 'https://chat.whatsapp.com/C7LzujTmWjQ6j5CUaBPaFI' //Grupo Oficial De Yaemori
+global.gp2 = 'https://chat.whatsapp.com/KGGL6RWE7eAJRGrSn3QOYl' //Grupo Oficial de KatashiBot-MD
+global.gp3 = 'https://chat.whatsapp.com/KGGL6RWE7eAJRGrSn3QOYl' //☆𝑨𝒏𝒊𝒎𝒆♡𝑨𝒎𝒊𝒔𝒕𝒂𝒅♡
+global.gp4 = 'https://chat.whatsapp.com/Eagxuc4pwKyAN4spnkm8lW' //PapuCity 2.6 S.A. de C.V.
+global.gp5 = 'https://chat.whatsapp.com/Gxpc9XjJ8MALe4bCR3nRtL' //◦•●◉✿ 𝘛𝘩𝘦 𝘈𝘯𝘪𝘱𝘢𝘱𝘶 𝘌𝘴𝘴𝘦𝘯𝘤𝘦 𝘊𝘳𝘦𝘸  ✿◉●•◦
+global.gp6 = 'https://chat.whatsapp.com/FwQDYWZHkli4fwQKEn2ps7' //◦•●◉✿ 𝘛𝘩𝘦 𝘈𝘯𝘪𝘱𝘢𝘱𝘶 𝘌𝘴𝘴𝘦𝘯𝘤𝘦 𝘊𝘳𝘦𝘸 𝘋𝘌𝘓𝘜𝘟𝘌 𝘌𝘥𝘪𝘵𝘪𝘰𝘯  ✿◉●•◦
+global.channel = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37' //Canal Oficial
+global.channel2 = 'https://whatsapp.com/channel/0029VaGGynJLY6d43krQYR2g' //canal secundario
 global.channel3 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.md = 'https://github.com/OfcDiego/YaemoriBot-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
+global.yt = 'https://www.youtube.com/@KatashiFukushima' //Canal De Youtube
+global.md = 'https://github.com/KatashiFukushima/YaemoriBot-MD' //Github Oficial
+global.fb = 'https://www.facebook.com/KatashiFukushima' //Facebook Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
@@ -69,7 +69,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nYaemori`;
 global.gt = 'Yaemori';
 global.yaemori = 'Yaemori';
-global.yaemori = 'https://github.com/OfcDiego/YaemoriBot-MD';
+global.yaemori = 'https://github.com/KatashiFukushima/YaemoriBot-MD';
 global.nomorown = '51948705559';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
